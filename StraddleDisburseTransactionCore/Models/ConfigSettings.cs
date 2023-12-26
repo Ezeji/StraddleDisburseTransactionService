@@ -11,5 +11,6 @@ namespace StraddleDisburseTransactionCore.Models
         public const string ConfigName = nameof(StraddleConfig);
 
         public int TransactionProcessingInterval { get; set; }
+        public int AllowedRefundDuration { get; set; }
     }
 }
