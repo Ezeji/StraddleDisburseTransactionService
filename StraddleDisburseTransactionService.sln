@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraddleDisburseTransactionApi", "StraddleDisburseTransactionApi\StraddleDisburseTransactionApi.csproj", "{37A7DF64-F355-4000-8C8A-CFA9C253B9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraddleDisburseTransactionCore", "StraddleDisburseTransactionCore\StraddleDisburseTransactionCore.csproj", "{FD98FE03-3443-4614-AB6D-DA417895A253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraddleDisburseTransactionData", "StraddleDisburseTransactionData\StraddleDisburseTransactionData.csproj", "{84B5F939-2A15-4BBE-A390-D331C762A9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraddleDisburseTransactionRepository", "StraddleDisburseTransactionRepository\StraddleDisburseTransactionRepository.csproj", "{026C57ED-37B3-420D-B5CD-4378E3A64385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraddleDisburseTransactionTest", "StraddleDisburseTransactionTest\StraddleDisburseTransactionTest.csproj", "{F353AC7E-4730-43B8-A103-6A5EEF8AF65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A7DF64-F355-4000-8C8A-CFA9C253B9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A7DF64-F355-4000-8C8A-CFA9C253B9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A7DF64-F355-4000-8C8A-CFA9C253B9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A7DF64-F355-4000-8C8A-CFA9C253B9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD98FE03-3443-4614-AB6D-DA417895A253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD98FE03-3443-4614-AB6D-DA417895A253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD98FE03-3443-4614-AB6D-DA417895A253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD98FE03-3443-4614-AB6D-DA417895A253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B5F939-2A15-4BBE-A390-D331C762A9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B5F939-2A15-4BBE-A390-D331C762A9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B5F939-2A15-4BBE-A390-D331C762A9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B5F939-2A15-4BBE-A390-D331C762A9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026C57ED-37B3-420D-B5CD-4378E3A64385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026C57ED-37B3-420D-B5CD-4378E3A64385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026C57ED-37B3-420D-B5CD-4378E3A64385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026C57ED-37B3-420D-B5CD-4378E3A64385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F353AC7E-4730-43B8-A103-6A5EEF8AF65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F353AC7E-4730-43B8-A103-6A5EEF8AF65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F353AC7E-4730-43B8-A103-6A5EEF8AF65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F353AC7E-4730-43B8-A103-6A5EEF8AF65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DF475A-DD70-4289-8BE1-C08F85401E49}
+	EndGlobalSection
+EndGlobal
